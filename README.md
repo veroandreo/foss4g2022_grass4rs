@@ -12,21 +12,35 @@ We will start with some basic GRASS concepts, but we'll assume Python and remote
 sensing basic knowledge. Furthermore, **participants should install the needed
 software and download the data in advance**.
 
-## Software
+## Getting started
+
+Clone this repository with `git clone` first or download the `*.jpynb` file.
+Then locally start the Jupyter notebook server from the command line in the
+directory containing the `*.jpynb` file with:
+
+`jupyter notebook`
+
+This will open a new browser tab or window with a list of the contents of the current
+working directory. Clicking on the `*.jpynb` file will start the notebook.
+
+See also the official documentation for [The Jupyter Notebook](https://jupyter-notebook.readthedocs.io/en/latest/).
+
+
+## Software requirements
 
 ### GRASS GIS
 
 We will use **GRASS GIS 8.2+**. It can be installed either through standalone
 installers/binaries or through [OSGeo-Live](https://live.osgeo.org/en/index.html)
-(a linux based virtual machine which includes all OSGeo software and packages).
+(a Linux based virtual machine which includes all OSGeo software and packages).
 
 ##### MS Windows
 
 There are two different options:
-1. [Standalone installer 64-bit](https://grass.osgeo.org/grass82/binary/mswindows/native/WinGRASS-8.2.0-1-Setup.exe)
-2. [OSGeo4W 64-bit](http://download.osgeo.org/osgeo4w/v2/osgeo4w-setup.exe)
+1. [OSGeo4W 64-bit](http://download.osgeo.org/osgeo4w/v2/osgeo4w-setup.exe)
+2. [Standalone installer 64-bit](https://grass.osgeo.org/grass82/binary/mswindows/native/WinGRASS-8.2.0-1-Setup.exe)
 
-For Windows users, **we strongly recommend installing GRASS GIS through the OSGeo4W package** (second option),
+For Windows users, **we strongly recommend installing GRASS GIS through the OSGeo4W package** (first option),
 since it allows to install all OSGeo software.
 
 ##### Ubuntu Linux
@@ -49,7 +63,9 @@ See also [here](https://grass.osgeo.org/download/)
 
 Have a look at: http://grassmac.wikidot.com/downloads
 
-## Other software
+## Other required Python packages
+
+Please install the following packages with `pip3 install <packagename>`:
 
 - sentinelsat
 - jupyter
@@ -69,5 +85,5 @@ Have a look at: http://grassmac.wikidot.com/downloads
 ## Lecturers
 
 - [Veronica Andreo](https://veroandreo.gitlab.io/) holds a PhD in Biology and an MSc in Remote Sensing and GIS Applications. She is a researcher for CONICET working at the Argentinian Space Agency. Her main interests are remote sensing and GIS tools for disease ecology research and applications. She is part of the GRASS Dev Team, currently serving as PSC chair.
-- Markus Neteler, PhD, is a cofounder of mundialis after having spent 15 years as a researcher in Italy. His focus is on Earth Observation, GIS and cloud computing. Markus managed for two decades the GRASS GIS project, and he is a founding member of OSGeo and other organizations.
-- Māris Nartišs is a geographer with more than ten years of experience in teaching topics related to GIS, remote sensing and geomorphology. A free software supporter, GRASS GIS contributor.
+- [Markus Neteler](https://www.mundialis.de/neteler/), PhD, is a cofounder of mundialis after having spent 15 years as a researcher in Italy. His focus is on Earth Observation, GIS and cloud computing. Markus managed for two decades the GRASS GIS project, and he is a founding member of OSGeo and other organizations.
+- Māris Nartišs is a geographer with more than ten years of experience in teaching topics related to GIS, remote sensing and geomorphology. A free software supporter, and GRASS GIS contributor.

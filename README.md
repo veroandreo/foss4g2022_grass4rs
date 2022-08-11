@@ -14,14 +14,14 @@ software and download the data in advance**.
 
 ## Getting started
 
-Clone this repository with `git clone` first or download the `*.jpynb` file.
+Clone this repository with `git clone` first or download the `*.ipynb` file.
 Then locally start the Jupyter notebook server from the command line in the
-directory containing the `*.jpynb` file with:
+directory containing the `*.ipynb` file with:
 
 `jupyter notebook`
 
 This will open a new browser tab or window with a list of the contents of the current
-working directory. Clicking on the `*.jpynb` file will start the notebook.
+working directory. Clicking on the `*.ipynb` file will start the notebook.
 
 See also the official documentation for [The Jupyter Notebook](https://jupyter-notebook.readthedocs.io/en/latest/).
 

@@ -85,5 +85,5 @@ Please install the following packages with `pip3 install <packagename>`:
 ## Lecturers
 
 - [Veronica Andreo](https://veroandreo.gitlab.io/) holds a PhD in Biology and an MSc in Remote Sensing and GIS Applications. She is a researcher for CONICET working at the Argentinian Space Agency. Her main interests are remote sensing and GIS tools for disease ecology research and applications. She is part of the GRASS Dev Team, currently serving as PSC chair.
-- [Markus Neteler](https://www.mundialis.de/neteler/), PhD, is a cofounder of mundialis after having spent 15 years as a researcher in Italy. His focus is on Earth Observation, GIS and cloud computing. Markus managed for two decades the GRASS GIS project, and he is a founding member of OSGeo and other organizations.
+- [Markus Neteler](https://www.mundialis.de/neteler/), PhD, is a cofounder of mundialis after having spent 15 years as a researcher in Italy. His focus is on Earth Observation, GIS and cloud computing. Markus managed the GRASS GIS project for two decades, and he is a founding member of OSGeo and other organizations.
 - Māris Nartišs is a geographer with more than ten years of experience in teaching topics related to GIS, remote sensing and geomorphology. A free software supporter, and GRASS GIS contributor.

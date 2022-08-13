@@ -12,6 +12,25 @@ We will start with some basic GRASS concepts, but we'll assume Python and remote
 sensing basic knowledge. Furthermore, **participants should install the needed
 software and download the data in advance**.
 
+## Workshop overview
+
+1. Why Jupyter Notebooks and how to use them?
+2. GRASS GIS basics
+3. GRASS GIS & Python
+4. Getting ready: set paths and variables and download sample data
+5. Initialization of GRASS GIS in the Jupyter notebook session
+6. Creating an area of interest map
+7. Importing geodata into GRASS GIS
+8. Sentinel-2 processing overview
+9. Computing NDVI
+10. Time series data processing
+11. Creating an image stack (imagery group)
+12. Object recognition with image segmentation
+13. Supervised Classification: RandomForest
+14. What's next?
+
+See the `grassgis4rs.ipynb` notebook for details.
+
 ## Getting started
 
 Clone this repository with `git clone` first or download the `*.ipynb` file.
@@ -80,7 +99,7 @@ Please install the following packages with `pip3 install <packagename>`:
 
 - NC sample data: https://grass.osgeo.org/sampledata/north_carolina/nc_spm_08_grass7.zip
 - Sentinel 2 scenes: https://www.gisnet.lv/~marisn/GRASS_workshop/
-- OSM land use:
+- OSM land use: https://data.neteler.org/foss4g2022/osm_north_carolina_landuse_epsg3358.gpkg
 
 ## Lecturers
 

@@ -104,9 +104,8 @@ The folder contains:
 - NC sample data
 - Sentinel 2 scenes
 - NC NLCD 2019 map
-- LULC rules
 
-## ESA registration
+## Registration at Copernicus Open Access Hub
 
 We'll use Sentinel 2 data and hence users must be registered at the
 [Copernicus Open Access Hub](https://scihub.copernicus.eu/).

@@ -17,7 +17,7 @@ software and download the data in advance**.
 1. Why Jupyter Notebooks and how to use them?
 2. GRASS GIS basics
 3. GRASS GIS & Python
-4. Getting ready: set paths and variables and download sample data
+4. Getting ready: set paths and download sample data
 5. Initialization of GRASS GIS in the Jupyter notebook session
 6. Creating an area of interest map
 7. Importing geodata into GRASS GIS
@@ -26,7 +26,8 @@ software and download the data in advance**.
 10. Time series data processing
 11. Creating an image stack (imagery group)
 12. Object recognition with image segmentation
-13. Supervised Classification: RandomForest
+13. Supervised Classification: Random Forest
+14. Supervised Classification: Maximum Likelihood and band references
 14. What's next?
 
 See the `grassgis4rs.ipynb` notebook for details.
@@ -43,7 +44,6 @@ This will open a new browser tab or window with a list of the contents of the cu
 working directory. Clicking on the `*.ipynb` file will start the notebook.
 
 See also the official documentation for [The Jupyter Notebook](https://jupyter-notebook.readthedocs.io/en/latest/).
-
 
 ## Software requirements
 
@@ -97,9 +97,26 @@ Please install the following packages with `pip3 install <packagename>`:
 
 ## Data
 
-- NC sample data: https://grass.osgeo.org/sampledata/north_carolina/nc_spm_08_grass7.zip
-- Sentinel 2 scenes: https://www.gisnet.lv/~marisn/GRASS_workshop/
-- OSM land use: https://data.neteler.org/foss4g2022/osm_north_carolina_landuse_epsg3358.gpkg
+We have prepared a zipped folder with all the data needed for the
+workshop. Please download it from: **ADD LINK**
+
+The folder contains:
+- NC sample data
+- Sentinel 2 scenes
+- NC NLCD 2019 map
+- LULC rules
+
+## ESA registration
+
+We'll use Sentinel 2 data and hence users must be registered at the
+[Copernicus Open Access Hub](https://scihub.copernicus.eu/).
+Fill in the form [here](https://scihub.copernicus.eu/dhus/#/self-registration)
+and create a text file with two lines including `username` and `password`,
+such as:
+```
+username
+password
+```
 
 ## Lecturers
 

@@ -17,7 +17,7 @@ software and download the data in advance**.
 1. Why Jupyter Notebooks and how to use them?
 2. GRASS GIS basics
 3. GRASS GIS & Python
-4. Getting ready: set paths and download sample data
+4. Getting ready: set variables and download sample data
 5. Initialization of GRASS GIS in the Jupyter notebook session
 6. Creating an area of interest map
 7. Importing geodata into GRASS GIS

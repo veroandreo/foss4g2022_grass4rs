@@ -27,7 +27,7 @@ software and download the data in advance**.
 11. Creating an image stack (imagery group)
 12. Object recognition with image segmentation
 13. Supervised Classification: Random Forest
-14. Supervised Classification: Maximum Likelihooh and band references
+14. Supervised Classification: Maximum Likelihood and band references
 14. What's next?
 
 See the `grassgis4rs.ipynb` notebook for details.

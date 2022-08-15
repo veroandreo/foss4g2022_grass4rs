@@ -76,7 +76,7 @@ sudo apt-get install grass grass-gui grass-dev
 
 For other Linux distributions including **Fedora** and **openSuSe**,
 simply install GRASS GIS with the respective package manager.
-See also [here](https://grass.osgeo.org/download/)
+See also [here](https://grass.osgeo.org/download/linux/#GRASS-GIS-current).
 
 ##### Mac OS
 
@@ -99,13 +99,13 @@ Please install the following packages with `pip3 install <packagename>`:
 
 Please download the following files in advance:
 
-- NC sample data: https://grass.osgeo.org/sampledata/north_carolina/nc_spm_08_grass7.zip
-- Sentinel 2 scenes: https://data.neteler.org/foss4g2022/sentinel.zip
-- NC NLCD 2019 GRASS map: https://data.neteler.org/foss4g2022/nc_nlcd2019.pack
+- North Carolina (NC) sample data: https://grass.osgeo.org/sampledata/north_carolina/nc_spm_08_grass7.zip
+- Sentinel-2 scenes: https://data.neteler.org/foss4g2022/sentinel.zip
+- NC NLCD 2019 map in GRASS GIS format: https://data.neteler.org/foss4g2022/nc_nlcd2019.pack
 
 ## Registration at Copernicus Open Access Hub
 
-We'll use Sentinel 2 data and hence users must be registered at the
+We'll use Sentinel-2 data and hence users must be registered at the
 [Copernicus Open Access Hub](https://scihub.copernicus.eu/).
 Fill in the form [here](https://scihub.copernicus.eu/dhus/#/self-registration)
 and create a text file with two lines including `username` and `password`,

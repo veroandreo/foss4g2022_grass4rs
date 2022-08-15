@@ -97,13 +97,11 @@ Please install the following packages with `pip3 install <packagename>`:
 
 ## Data
 
-We have prepared a zipped folder with all the data needed for the
-workshop. Please download it from: **ADD LINK**
+Please download the following files in advance:
 
-The folder contains:
-- NC sample data
-- Sentinel 2 scenes
-- NC NLCD 2019 map
+- NC sample data: https://grass.osgeo.org/sampledata/north_carolina/nc_spm_08_grass7.zip
+- Sentinel 2 scenes: https://data.neteler.org/foss4g2022/sentinel.zip
+- NC NLCD 2019 GRASS map: https://data.neteler.org/foss4g2022/nc_nlcd2019.pack
 
 ## Registration at Copernicus Open Access Hub
 

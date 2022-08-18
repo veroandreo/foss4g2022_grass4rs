@@ -84,16 +84,11 @@ Have a look at: http://grassmac.wikidot.com/downloads
 
 ## Other required Python packages
 
-Please install the following packages with `pip3 install <packagename>`:
+Please install other required python packages with: 
 
-- sentinelsat
-- jupyter
-- folium
-- scikit-learn
-- pandas
-- numpy
-- seaborn
-- matplotlib
+```
+pip3 install sentinelsat notebook folium scikit-learn pandas numpy seaborn matplotlib
+```
 
 ## Data
 

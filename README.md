@@ -9,8 +9,9 @@ a workflow going from data download to supervised classification of different sc
 and visualization of results.
 
 We will start with some basic GRASS concepts, but we'll assume Python and remote
-sensing basic knowledge. Furthermore, **participants should install the needed
-software and download the data in advance**.
+sensing basic knowledge. 
+
+:exclamation: **Participants should install the needed software and download the data in advance**.
 
 ## Workshop overview
 

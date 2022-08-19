@@ -13,6 +13,11 @@ sensing basic knowledge.
 
 :exclamation: **Participants should install the needed software and download the data in advance**.
 
+If you have problems installing the required software or prefer not to install anything new
+on your machine, we are providing a notebook that can be opened and ran in **Google Colab**.
+You only require to sign-in with a Gmail account and upload/open the `grassgis4rs_colab.ipynb`
+there.
+
 ## Workshop overview
 
 1. Why Jupyter Notebooks and how to use them?

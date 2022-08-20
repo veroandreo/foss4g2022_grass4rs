@@ -15,7 +15,7 @@ sensing basic knowledge.
 
 If you have problems installing the required software or prefer not to install anything new
 on your machine, we are providing a notebook that can be opened and ran in **Google Colab**.
-You only require to sign-in with a Gmail account and upload/open the `grassgis4rs_colab.ipynb`
+You only require to sign-in with a Google account and upload/open the file `grassgis4rs_colab.ipynb`
 there.
 
 ## Workshop overview

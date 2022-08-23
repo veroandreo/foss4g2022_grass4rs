@@ -51,7 +51,14 @@ working directory. Clicking on the `*.ipynb` file will start the notebook.
 
 See also the official documentation for [The Jupyter Notebook](https://jupyter-notebook.readthedocs.io/en/latest/).
 
-## Software requirements
+## Running the notebook in Google Colab
+
+To open the notebook in [Google Colab](https://colab.research.google.com/), just use the URL 
+of this repository:
+
+![Google Colab](assets/img/launch_google_colab.png)
+
+## Software requirements for running the notebook locally
 
 ### GRASS GIS
 

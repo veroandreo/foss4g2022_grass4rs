@@ -108,6 +108,7 @@ pip3 install sentinelsat notebook folium scikit-learn pandas numpy seaborn matpl
 Please download the following files in advance:
 
 - North Carolina (NC) sample data: https://grass.osgeo.org/sampledata/north_carolina/nc_spm_08_grass7.zip
+    -  [List of available data](https://www.grassbook.org/wp-content/uploads/grasslocations/nc_spm_08_contents.html) in the North Carolina sample dataset.
 - Sentinel-2 scenes: https://data.neteler.org/foss4g2022/sentinel.zip
 - NC NLCD 2019 map in GRASS GIS format: https://data.neteler.org/foss4g2022/nc_nlcd2019.pack
 
